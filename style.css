@@ -1,0 +1,18 @@
+.anh img {
+    position: relative;
+}
+
+.anh h4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(153, 205, 50, 0.591);
+    top: 90px;
+    left: 8px;
+    width: 200px;
+    height: 40px
+}
+
+.p {
+    font-size: 50px;
+}
